@@ -1,4 +1,4 @@
 id : 01085762
 name : chakrit sereepong
-nick name : bas
-test
+nick name : bas 
+status : single
